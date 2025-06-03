@@ -1,4 +1,4 @@
-👋 Hi there, I'm Pushpendra Sharma
+<h2 align="center">👋 Hi there, I'm Pushpendra Sharma</h2>
 
 🚀 A Tech Enthusiast, Python Aficionado, and Passionate Backend Developer with a strong Inclination towards AI models and their real-world applications. I love exploring how Modern Technologies work under the hood and translating that knowledge into practical, impactful solutions.
 
