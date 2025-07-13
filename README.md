@@ -53,7 +53,6 @@
 - 🔁 **CodeMorphe** – A smart AI-powered solution for seamless transformation of code from one programming language to another.
 - 🏫 **EventEase** – A comprehensive solution for seamless event management in universities and colleges.
 - 📜 **Scroll2PDF** – Converts long-scrollable web content into readable PDF documents.
-- 🕵️ **News Detector** – A tool to analyze and detect the credibility of news articles using NLP models.
 
 
 # 🎯 Current Learning Goals
