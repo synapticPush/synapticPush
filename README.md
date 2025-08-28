@@ -110,10 +110,6 @@
 
 
 
-# 📫 Let’s Connect
-
-Feel free to explore my repositories, drop a ⭐ on projects you like, and connect with me on [LinkedIn](https://www.linkedin.com/in/pushpendra-sharma-862322324/) or [Twitter](https://x.com/p_sharma_09) to discuss exciting tech stuff!
-
 
 
 
