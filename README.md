@@ -91,10 +91,6 @@
 - 🥈 **Runner-Up** – *Geekverse 1.0* organized by GFG GLA Chapter at GLA University.
 
 
-# 📫 Let’s Connect
-
-Feel free to explore my repositories, drop a ⭐ on projects you like, and connect with me on [LinkedIn](https://www.linkedin.com/in/pushpendra-sharma-862322324/) or [Twitter](https://x.com/p_sharma_09) to discuss exciting tech stuff!
-
 # 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=synapticPush&show_icons=true&theme=radical)
@@ -102,8 +98,21 @@ Feel free to explore my repositories, drop a ⭐ on projects you like, and conne
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=synapticPush&theme=radical&hide_border=false)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=synapticPush&theme=react-dark&hide_border=true)
+## 📈 Contribution Activity
 
+<div align="center">
+
+<a href="https://github.com/synapticPush">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=synapticPush&theme=tokyo-night&bg_color=0D1117&color=F8D866&line=38BCF8&point=F85D7F&area=true&hide_border=false" alt="SynapticPush's Activity Graph" />
+</a>
+
+</div>
+
+
+
+# 📫 Let’s Connect
+
+Feel free to explore my repositories, drop a ⭐ on projects you like, and connect with me on [LinkedIn](https://www.linkedin.com/in/pushpendra-sharma-862322324/) or [Twitter](https://x.com/p_sharma_09) to discuss exciting tech stuff!
 
 
 
