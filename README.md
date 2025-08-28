@@ -100,7 +100,7 @@ Feel free to explore my repositories, drop a ⭐ on projects you like, and conne
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=synapticPush&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=synapticPush&layout=compact&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=synapticPush&theme=radical&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=synapticPush&theme=radical&hide_border=false)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=synapticPush&theme=react-dark&hide_border=true)
 
