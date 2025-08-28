@@ -95,4 +95,16 @@
 
 Feel free to explore my repositories, drop a ⭐ on projects you like, and connect with me on [LinkedIn](https://www.linkedin.com/in/pushpendra-sharma-862322324/) or [Twitter](https://x.com/p_sharma_09) to discuss exciting tech stuff!
 
+# 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=synapticPush&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=synapticPush&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=synapticPush&theme=radical&hide_border=false)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=synapticPush&theme=react-dark&hide_border=true)
+
+
+
+
 
