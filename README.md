@@ -1,13 +1,13 @@
 <h2 align="center">👋 Hi there, I'm Pushpendra Sharma</h2>
 
-🚀 A Tech Enthusiast, Python Aficionado, and Passionate Backend Developer with a strong Inclination towards AI models and their real-world applications. I love exploring how Modern Technologies work under the hood and translating that knowledge into practical, impactful solutions.
+🚀 A Tech Enthusiast, Python Aficionado, and Passionate Backend Developer with a Strong Inclination towards AI models and their real-world applications. I love exploring how Modern Technologies work under the hood and translating that knowledge into practical, impactful solutions.
 
 
 # 💼 About Me
 
 - 🎓 I'm currently exploring the capabilities of **Generative AI**, understanding model architectures, and diving into **hands-on model Training and Deployment**.
 - 💻 Backend development is my forte, and I enjoy building scalable APIs and systems using **FastAPI**, **Python**, and **MySQL**.
-- 🧠 I’m a continuous learner, always curious about **data structures, algorithms**, and how systems can be optimized at scale.
+- 🧠 I’m a continuous learner, always curious about **Data Structures, Algorithms**, and how systems can be optimized at scale.
 - 🤖 Strong interest in **AI**, system design, and leveraging tech to solve real-life problems.
 
 
@@ -21,11 +21,15 @@
 **Backend:**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 **Frontend:**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -49,10 +53,13 @@
 
 # 🔥 Notable Projects
 
-- 🧑‍🌾 **FarmFlux** – An AI-powered farming assistance system offering smart recommendations and monitoring tools.
-- 🔁 **CodeMorphe** – A smart AI-powered solution for seamless transformation of code from one programming language to another.
-- 🏫 **EventEase** – A comprehensive solution for seamless event management in universities and colleges.
-- 📜 **Scroll2PDF** – Converts long-scrollable web content into readable PDF documents.
+- 🧑‍🌾 **FarmFlux** – An AI-powered farming assistance system offering smart recommendations and monitoring tools.  
+- 🔁 **CodeMorphe** – A smart AI-powered solution for seamless transformation of code from one programming language to another.  
+- 🏫 **EventEase** – A comprehensive solution for seamless event management in universities and colleges.  
+- 📜 **Scroll2PDF** – Converts long-scrollable web content into readable PDF Documents.  
+- 📚 **EduQueryGen** – An AI-driven Educational Query Generator designed to simplify complex learning concepts and enhance Student Engagement.  
+- 🏥 **Health Checker** – A Smart Healthcare tool that analyzes Symptoms to provide potential Health Insights and Recommendations.  
+
 
 
 # 🎯 Current Learning Goals
@@ -70,7 +77,7 @@
 
 # 🏆 Achievements
 
-- 🥈 **Runner-Up** – *Geekverse 1.0* organized by GFG GLA Chapter at GLA University
+- 🥈 **Runner-Up** – *Geekverse 1.0* organized by GFG GLA Chapter at GLA University.
 
 
 # 📫 Let’s Connect
