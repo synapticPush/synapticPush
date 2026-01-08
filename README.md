@@ -98,15 +98,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=synapticPush&theme=radical&hide_border=false)
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-<a href="https://github.com/synapticPush">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=synapticPush&theme=tokyo-night&bg_color=0D1117&color=F8D866&line=38BCF8&point=F85D7F&area=true&hide_border=false" alt="SynapticPush's Activity Graph" />
-</a>
-
-</div>
 
 
 
