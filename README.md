@@ -1,5 +1,11 @@
 <h2 align="center">👋 Hi there, I'm Pushpendra Sharma</h2>
 
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Tech+Enthusiast;Active+Learner;AI+and+Backend+Explorer" />
+</p>
+
+
 🚀 A Tech Enthusiast, Python Aficionado, and Passionate Backend Developer with a Strong Inclination towards AI models and their real-world applications. I love exploring how Modern Technologies work under the hood and translating that knowledge into practical, impactful solutions.
 
 
@@ -64,12 +70,13 @@
 
 # 🔥 Notable Projects
 
-- 🧑‍🌾 **FarmFlux** – An AI-powered farming assistance system offering smart recommendations and monitoring tools.  
+- 🧑‍🌾 KisanSetu – A web and mobile-friendly farm management platform for tracking fields, labour, expenses, transportation, and crop yield.  
 - 🔁 **CodeMorphe** – A smart AI-powered solution for seamless transformation of code from one programming language to another.  
 - 🏫 **EventEase** – A comprehensive solution for seamless event management in universities and colleges.  
 - 📜 **Scroll2PDF** – Converts long-scrollable web content into readable PDF Documents.  
 - 📚 **EduQueryGen** – An AI-driven Educational Query Generator designed to simplify complex learning concepts and enhance Student Engagement.  
-- 🏥 **Health Checker** – A Smart Healthcare tool that analyzes Symptoms to provide potential Health Insights and Recommendations.  
+- 🏥 **Health Checker** – A Smart Healthcare tool that analyzes Symptoms to provide potential Health Insights and Recommendations.
+- 🧑‍🌾 **FarmFlux** – An AI-powered farming assistance system offering smart recommendations and monitoring tools.
 
 
 
@@ -78,12 +85,6 @@
 - 📚 Deep dive into **Generative AI** and model internals.
 - 🛠️ Hands-on with **AI/ML model training and deployment**.
 - 💡 Strengthening in **Java**, **DSA**, and Scalable Backend Architecture.
-  
-
-# 📜 Certifications
-
-- 🐍 Advanced Python Programming – *Udemy*
-- 🌐 Web Development – *Coursera*
 
 
 # 🏆 Achievements
