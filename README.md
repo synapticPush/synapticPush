@@ -2,8 +2,10 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Tech+Enthusiast;Active+Learner;AI+and+Backend+Explorer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3200&color=36BCF7&center=true&vCenter=true&width=700&lines=💻+Crafting+Smart+Tech+Solutions;🚀+Turning+Ideas+into+Impactful+Tech;🧠+Code.+Create.+Solve.+Repeat." />
 </p>
+
+
 
 
 🚀 A Tech Enthusiast, Python Aficionado, and Passionate Backend Developer with a Strong Inclination towards AI models and their real-world applications. I love exploring how Modern Technologies work under the hood and translating that knowledge into practical, impactful solutions.
