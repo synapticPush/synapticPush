@@ -93,6 +93,8 @@
 
 - 🥈 **Runner-Up** – *Geekverse 1.0* organized by GFG GLA Chapter at GLA University.
 - 🥈 **2nd Position** - *Competitive Programming* by Intel-Unnati NEC in Session 2025-26.
+- 🥈 **Winner** - *Hack The Throne* Hackathon (Requestly Track) Winner at *IIIT Una*.
+
 
 
 # 📊 GitHub Stats
