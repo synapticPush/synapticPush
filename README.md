@@ -11,7 +11,6 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=synapticPush&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/synapticPush?style=for-the-badge"/>
 <img src="https://img.shields.io/github/stars/synapticPush?affiliations=OWNER&style=for-the-badge"/>
 </p>
 
